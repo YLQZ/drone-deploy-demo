@@ -26,6 +26,7 @@
 </p>
 
 [![Build Status](http://devyusheng.top:8099/api/badges/YLQZ/drone-deploy-demo/status.svg)](http://devyusheng.top:8099/YLQZ/drone-deploy-demo)
+[![Build Status](https://www.travis-ci.org/YLQZ/drone-deploy-demo.svg?branch=master)](https://www.travis-ci.org/YLQZ/drone-deploy-demo)
 
 
 English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md)
